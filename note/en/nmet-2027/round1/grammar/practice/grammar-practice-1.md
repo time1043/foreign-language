@@ -59,7 +59,7 @@ Lu Xun, _a_ famous writer in China. 关注空格后的名词 “中国著名作�
 // a/an
 元音aeiou开头，用an
 u开头读“优”/ju:/，用a // _a_ university, _a_ universe, _a_ uniform
-h开后不发音，用an // _an_ hour
+h开头不发音，用an // _an_ hour
 ```
 
 ## 12 动词作谓语——判断时态/语态/主语单复数
@@ -74,8 +74,8 @@ _a number of folks_ folks 复数
 动词作谓语——判断时态语态
 // 时态：判断动作发生的时间——过去、现在、将来
 现在（上下句共用时态）：
-一般现在：stuggle（语法填空禁止照抄提示次原词）🙅
-现在进行：are stuggling（“现在正在”生动场景）✅
+一般现在：struggle（语法填空禁止照抄提示词原词）🙅
+现在进行：are struggling（“现在正在”生动场景）✅
 现在完成（“并未完成脱贫”）🙅
 
 // 语态：判断动作的主动/被动
@@ -93,7 +93,7 @@ _to tell_ the villagers
 
 tell sb sth 告诉某人某事（双宾语动词）
 
-无提示词后面上句子：从句关系词、连词
+无提示词后面是句子：从句关系词、连词
 观察前后两句话的完整性：完整、不完整（缺不缺名词）
 
 // 宾语从句
@@ -107,9 +107,9 @@ tell sb sth 告诉某人某事（双宾语动词）
 B
 
 Governments at all levels have made continuous efforts to reduce the financial burden on house renters, especially those (14)___who___ are new college graduates.
-A report by the Meadin Academy says that college graduates (15)______ (survey) prefer to live in apartments near the companies or railway stations to facilitate their commute (通勤).
-As to house rents, most college graduates still need (16)______ (assistant) from their parents and only about 20 percent of them pay the rent themselves.
-(17)______ (help) lower the financial burdens of young people, many governments and companies have given their support in house rentals.
+A report by the Meadin Academy says that college graduates (15)___surveyed___ (survey) prefer to live in apartments near the companies or railway stations to facilitate their commute (通勤).
+As to house rents, most college graduates still need (16)___assistance___ (assistant) from their parents and only about 20 percent of them pay the rent themselves.
+(17)___To help___ (help) lower the financial burdens of young people, many governments and companies have given their support in house rentals.
 ```
 
 ## 14 无提示词后面是句子：从句关系词
@@ -130,8 +130,8 @@ Governments at all levels **have made** continuous efforts _to reduce_ the finan
 ## 15 动词作非谓语——主动被动
 
 ```markdown
-A report by the Media Academy **says**
-==that== college graduates _surveyed_ **prefer** to live in apartments near their companies ==or== railway stations to facilitate their commute (通勤).
+A report by the Meadin Academy **says**
+==that== college graduates _surveyed_ **prefer** to live in apartments near the companies ==or== railway stations to facilitate their commute (通勤).
 
 survey 动词？名词？
 句子存在动词！句子存在主语！那就只能起补充作用
@@ -193,7 +193,7 @@ C
 
 With the popularity of cycling, many cities have combined their tourism characteristics to launch themed routes.
 From indoor exhibitions (18)___to___ outdoor concerts and night cycling along the South Central Axis (轴), a series of activities (19)___will be introduced___ (introduce) next month so that urban residents can enjoy themselves.
-An official of the China Tourism Academy said, "As mass tourism grows in popularity, only high-quality outdoor tourism products can attract visitors and the integration of micro-vacation products with outdoor sports products (20)______ (have) a broad space for development."
+An official of the China Tourism Academy said, "As mass tourism grows in popularity, only high-quality outdoor tourism products can attract visitors and the integration of micro-vacation products with outdoor sports products (20)___has___ (have) a broad space for development."
 ```
 
 ## 18 无提示词后面是短语：介词
