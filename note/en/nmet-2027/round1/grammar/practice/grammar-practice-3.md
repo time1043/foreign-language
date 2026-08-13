@@ -3,17 +3,26 @@
 ```
 A
 
-Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately. The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations. Sharon is one of 38 women from the UK to have received the award. The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
+Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately.
+The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations.
+Sharon is one of 38 women from the UK to have received the award.
+The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
 
 B
 
-Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages. There are six days for each of the six official languages.
+Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages.
+There are six days for each of the six official languages.
 
-The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year. The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
+The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year.
+The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
 
 C
 
-Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession. It shows a person's character and helps him build relationships with those around him. It also helps in making good use of the available time. And this (18)______ (result) in increased productivity and enhanced efficiency. People who practice self-discipline are always respected (19)______ society.
+Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession.
+It shows a person's character and helps him build relationships with those around him.
+It also helps in making good use of the available time.
+And this (18)______ (result) in increased productivity and enhanced efficiency.
+People who practice self-discipline are always respected (19)______ society.
 
 It is proved (20)______ small changes in routine life such as sleeping and waking up at the same time each day, eating healthy food, exercising and setting goals can help in achieving self-discipline.
 ```
@@ -25,25 +34,28 @@ It is proved (20)______ small changes in routine life such as sleeping and wakin
 ```
 A
 
-Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately. The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations. Sharon is one of 38 women from the UK to have received the award. The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
+Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately.
+The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations.
+Sharon is one of 38 women from the UK to have received the award.
+The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
 ```
 
 ## 11
 
 ```markdown
-
+Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately.
 ```
 
 ## 12
 
 ```markdown
-
+The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations.
 ```
 
 ## 13
 
 ```markdown
-
+The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
 ```
 
 ## B
@@ -51,27 +63,29 @@ Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work i
 ```
 B
 
-Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages. There are six days for each of the six official languages.
+Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages.
+There are six days for each of the six official languages.
 
-The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year. The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
+The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year.
+The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
 ```
 
 ## 14
 
 ```markdown
-
+Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages.
 ```
 
 ## 15
 
 ```markdown
-
+The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year.
 ```
 
 ## 16
 
 ```markdown
-
+The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
 ```
 
 ## C
@@ -79,7 +93,11 @@ The Chinese language is one of the six official languages chosen by the United N
 ```
 C
 
-Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession. It shows a person's character and helps him build relationships with those around him. It also helps in making good use of the available time. And this (18)______ (result) in increased productivity and enhanced efficiency. People who practice self-discipline are always respected (19)______ society.
+Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession.
+It shows a person's character and helps him build relationships with those around him.
+It also helps in making good use of the available time.
+And this (18)______ (result) in increased productivity and enhanced efficiency.
+People who practice self-discipline are always respected (19)______ society.
 
 It is proved (20)______ small changes in routine life such as sleeping and waking up at the same time each day, eating healthy food, exercising and setting goals can help in achieving self-discipline.
 ```
@@ -87,30 +105,30 @@ It is proved (20)______ small changes in routine life such as sleeping and wakin
 ## 17
 
 ```markdown
-
+Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession.
 ```
 
 ## 18
 
 ```markdown
-
+And this (18)______ (result) in increased productivity and enhanced efficiency.
 ```
 
 ## 19
 
 ```markdown
-
+People who practice self-discipline are always respected (19)______ society.
 ```
 
 ## 20
 
 ```markdown
-
+It is proved (20)______ small changes in routine life such as sleeping and waking up at the same time each day, eating healthy food, exercising and setting goals can help in achieving self-discipline.
 ```
 
 # Review
 
-- min
+- __ min
 
 |     | Correct Answer | My Answer | Status | Analyze |
 | --- | -------------- | --------- | ------ | ------- |
