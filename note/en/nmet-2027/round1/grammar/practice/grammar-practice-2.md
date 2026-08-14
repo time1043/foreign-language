@@ -1,3 +1,8 @@
+---
+video-link:
+  - https://www.bilibili.com/video/BV1vb421H71y/
+---
+
 # Question
 
 ```
@@ -39,8 +44,8 @@ A
 Gratitude is more than just saying "thank you".
 Gratitude is a deeper appreciation for someone or something.
 Expressing gratitude makes us feel a positive emotion.
-Over the past thirty years, there (11)______ (be) many studies showing that writing a gratitude letter to another person offers us an opportunity (12)______ (escape) from negative emotions.
-Even if we don't share our writing with anyone, the act of completing the exercise alone makes us happier and (13)______ (satisfied) with life.
+Over the past thirty years, there (11)___have been___ (be) many studies showing that writing a gratitude letter to another person offers us an opportunity (12)___to escape___ (escape) from negative emotions.
+Even if we don't share our writing with anyone, the act of completing the exercise alone makes us happier and (13)___more satisfied___ (satisfied) with life.
 The more we express gratitude, the more positive we feel.
 ```
 
@@ -106,11 +111,11 @@ and并列 "happier" "more satisfied"
 ```
 B
 
-When I was in Singapore six years ago, I gave a taxi driver a card (14)______ a specific address on it and asked him to take me there as quickly as possible.
+When I was in Singapore six years ago, I gave a taxi driver a card (14)___with___ a specific address on it and asked him to take me there as quickly as possible.
 When we had almost reached the destination, he circled around the block.
 His meter read $11, but he took only $10.
 He explained that he wasn't so familiar with this area.
-Before getting out of the taxi, I (15)______ (tell) that the ride with the taxi driver is always an important experience (16)______ creates the first impression about this country for a person.
+Before getting out of the taxi, I (15)___was told___ (tell) that the ride with the taxi driver is always an important experience (16)___that / which___ creates the first impression about this country for a person.
 ```
 
 ## 14 无提示词后面是短语：介词
@@ -175,10 +180,10 @@ C
 When were you born?
 For most people, this is an easy question.
 Even those who don't know their exact birthday can usually figure out when they were born to within a few years.
-Yet the Internet is full of quizzes (17)______ (make) to help you determine in which decade you were born.
-These are usually based on what (18)______ (happen) in American pop culture at the time you first became aware of it.
+Yet the Internet is full of quizzes (17)___made___ (make) to help you determine in which decade you were born.
+These are usually based on what (18)___was happening___ (happen) in American pop culture at the time you first became aware of it.
 It sounds foolish.
-But many people, though (19)______ (complain) about the stupid quizzes, still take them, wondering (20)______ their answers generate their correct birth year.
+But many people, though (19)___complaining___ (complain) about the stupid quizzes, still take them, wondering (20)___whether___ their answers generate their correct birth year.
 ```
 
 ## 17 动词作非谓语——主动被动
@@ -217,7 +222,7 @@ time后面的从句，往往省略关系词
 ==though== **complaining** _about the stupid quizzes_,
 **still take** them,
 _wondering_
-==wheter== their answers **generate** their correct birth year.
+==whether== their answers **generate** their correct birth year.
 
 缺动词？though后句子没主语 🙅
 缺名词 ✅
