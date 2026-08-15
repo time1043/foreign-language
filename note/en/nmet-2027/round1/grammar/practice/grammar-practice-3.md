@@ -39,10 +39,10 @@ It is proved (20)______ small changes in routine life such as sleeping and wakin
 ```
 A
 
-Sharon Brown (11)______ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately.
-The award was given by an organisation (12)______ (call) Innovate UK for International Women's Day celebrations.
+Sharon Brown (11)___won___ (win) a Women in Innovation award in 2021 for her work in developing a blood test that can help to identify cancer quicker and more accurately.
+The award was given by an organisation (12)___called___ (call) Innovate UK for International Women's Day celebrations.
 Sharon is one of 38 women from the UK to have received the award.
-The award aims to support brilliant women to (13)______ (full) achieve their visions and change the world in future.
+The award aims to support brilliant women to (13)___fully___ (full) achieve their visions and change the world in future.
 ```
 
 ## 11 动词作谓语——时态/语态/主语
@@ -126,11 +126,11 @@ remarkable - remarkably // ✅ 去e加y
 ```
 B
 
-Language Days at the United Nations seek (14)______ (celebrate) cultural diversity and promote equal usage of the official languages.
+Language Days at the United Nations seek (14)___to celebrate___ (celebrate) cultural diversity and promote equal usage of the official languages.
 There are six days for each of the six official languages.
 
-The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)______ (hold) on April 20 every year.
-The date was selected from Guyu, (16)______ is the 6th of 24 solar terms in the traditional Chinese calendar.
+The Chinese language is one of the six official languages chosen by the United Nations, and UN Chinese Language Day (15)___is held___ (hold) on April 20 every year.
+The date was selected from Guyu, (16)___which___ is the 6th of 24 solar terms in the traditional Chinese calendar.
 ```
 
 ## 14 动词作非谓语——主动被动
@@ -187,13 +187,13 @@ The date **was selected** _from Guyu_,
 ```
 C
 
-Self-discipline is essential for every person, regardless of (17)______ (he) age, class or profession.
+Self-discipline is essential for every person, regardless of (17)___his___ (he) age, class or profession.
 It shows a person's character and helps him build relationships with those around him.
 It also helps in making good use of the available time.
-And this (18)______ (result) in increased productivity and enhanced efficiency.
-People who practice self-discipline are always respected (19)______ society.
+And this (18)___results___ (result) in increased productivity and enhanced efficiency.
+People who practice self-discipline are always respected (19)___in___ society.
 
-It is proved (20)______ small changes in routine life such as sleeping and waking up at the same time each day, eating healthy food, exercising and setting goals can help in achieving self-discipline.
+It is proved (20)___that___ small changes in routine life such as sleeping and waking up at the same time each day, eating healthy food, exercising and setting goals can help in achieving self-discipline.
 ```
 
 ## 17 代词形式的变换
@@ -244,7 +244,7 @@ My excellent score **resulted from** my constant efforts.
 
 ```markdown
 People ==who== **practice** self-discipline
-**are always respected** at society.
+**are always respected** in society.
 
 主v从x 从句缺主语 定语从句
 
@@ -281,15 +281,15 @@ It is proved that ... “某事已经得到了证明”
 
 - 18 min
 
-|     | Correct Answer        | My Answer | Status | Analyze                                                                   |
-| --- | --------------------- | --------- | ------ | ------------------------------------------------------------------------- |
-| 11  | won                   |           | ✅     |                                                                           |
-| 12  | called                |           | ✅     |                                                                           |
-| 13  | fully                 |           | ✅     |                                                                           |
-| 14  | to celebrate          |           | ✅     |                                                                           |
-| 15  | is held               |           | 🙅     | 差最后的临门一脚，已经分析出了“一般现在被动语态”，但最后落笔写 was held； |
-| 16  | which                 |           | ✅     |                                                                           |
-| 17  | his                   |           | ✅     |                                                                           |
-| 18  | results / will result |           | ✅     |                                                                           |
-| 19  | in                    |           | 🙅     | at society 觉得很通顺，介词只能积累；                                     |
-| 20  | that                  |           | ✅     |                                                                           |
+|     | Correct Answer        | My Answer    | Status | Analyze                                                                   |
+| --- | --------------------- | ------------ | ------ | ------------------------------------------------------------------------- |
+| 11  | won                   | won          | ✅     |                                                                           |
+| 12  | called                | called       | ✅     |                                                                           |
+| 13  | fully                 | fully        | ✅     |                                                                           |
+| 14  | to celebrate          | to celebrate | ✅     |                                                                           |
+| 15  | is held               | was held     | 🙅     | 差最后的临门一脚，已经分析出了“一般现在被动语态”，但最后落笔写 was held； |
+| 16  | which                 | which        | ✅     |                                                                           |
+| 17  | his                   | his          | ✅     |                                                                           |
+| 18  | results / will result | results      | ✅     |                                                                           |
+| 19  | in                    | at           | 🙅     | at society 觉得很通顺，介词只能积累；                                     |
+| 20  | that                  | that         | ✅     |                                                                           |
