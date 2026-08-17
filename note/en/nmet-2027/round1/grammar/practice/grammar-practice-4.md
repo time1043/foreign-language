@@ -26,9 +26,9 @@ On October 12th, Shenzhou-14 crew members gave a live class to the students on E
 ```
 A
 
-Edward O. Wilson, the "modern-day Charles Darwin", damaged his right eye when he (11)______ (catch) a fish in the river near his home at seven.
-The poor eyesight only allowed him to observe small (12)______ (creature), like ants.
-Interested in the selflessness of ants, which would sacrifice themselves for their colony (群体), Wilson developed a theory, (13)______ (confirm) the existence of altruistic (利他的) behavior in a wide range of species.
+Edward O. Wilson, the "modern-day Charles Darwin", damaged his right eye when he (11)___was catching___ (catch) a fish in the river near his home at seven.
+The poor eyesight only allowed him to observe small (12)___creatures___ (creature), like ants.
+Interested in the selflessness of ants, which would sacrifice themselves for their colony (群体), Wilson developed a theory, (13)___confirming___ (confirm) the existence of altruistic (利他的) behavior in a wide range of species.
 It made him influential as both a close observer and a pioneering theorist.
 ```
 
@@ -112,8 +112,8 @@ _To do sth_, sb do sth “为了做某事，某人做了某事”
 Sb do sth _to do sth_ “某人做某事为了做某事”
 Sb do sth(, ...,) _to do sth_
 
-I asked his to look for the book.
-I asked his, one of my students, to look for the book.
+I asked him to look for the book.
+I asked him, one of my students, to look for the book.
 ```
 
 ## B
@@ -122,10 +122,10 @@ I asked his, one of my students, to look for the book.
 B
 
 Research on the relationship between gratitude (感恩) and physical health is still exploring.
-The evidence of existing studies (14)______ (suggest) that there may be a connection.
-It appears that more grateful people report sleeping better and feeling (15)______ (healthy).
+The evidence of existing studies (14)___suggests___ (suggest) that there may be a connection.
+It appears that more grateful people report sleeping better and feeling (15)___healthier___ (healthy).
 Besides, gratitude may lead people to engage in behaviors that help keep them healthy, like not smoking.
-Now researchers still need to make it clear (16)______ gratitude is so good for our health.
+Now researchers still need to make it clear (16)___why___ gratitude is so good for our health.
 ```
 
 ## 14 动词作谓语——时态/语态/主语
@@ -190,9 +190,9 @@ I have no idea ____whether____ the machine works.
 C
 
 On October 12th, Shenzhou-14 crew members gave a live class to the students on Earth.
-During the class, the crew showed the students a science glove-box, (17)______ the plants experiments are performed.
-Then, the astronauts had real-time interactions with students (18)______ video calls and they answered students' questions like "What kinds of plants (19)______ (bring) to space in future spaceflights?"
-At the end of the class, the crew said, "We expect you guys (20)______ (build) our space home better in the future. "
+During the class, the crew showed the students a science glove-box, (17)___where___ the plants experiments are performed.
+Then, the astronauts had real-time interactions with students (18)___through___ video calls and they answered students' questions like "What kinds of plants (19)___will be brought___ (bring) to space in future spaceflights?"
+At the end of the class, the crew said, "We expect you guys (20)___to build___ (build) our space home better in the future. "
 ```
 
 ## 17 无提示词后面是句子：从句引导词
@@ -245,7 +245,7 @@ bring sth // 如果动词后面应该有名词，但是句中没有，那么该�
 bring - brought - brought - bringing
 ```
 
-## 20 动词作谓语——时态/语态/主语
+## 20 动词作非谓语——主动被动
 
 ```markdown
 _At the end of the class_, the crew **said**,
@@ -265,7 +265,7 @@ you guys **will build** our space home better _in the future_. "
 
 将来、主动、复数
 // 一般将来时得多重要，才能在一套题目考两次？
-// 谓语考点重在在一般现在、一般过去、现在完成
+// 谓语考点重在一般现在、一般过去、现在完成
 ```
 
 # Review
