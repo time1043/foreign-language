@@ -284,3 +284,45 @@ It is proved that ... “某事已经得到了证明”
 | 18  | results / will result | results      | ✅     |                                                                           |
 | 19  | in                    | at           | 🙅     | at society 觉得很通顺，介词只能积累；                                     |
 | 20  | that                  | that         | ✅     |                                                                           |
+
+# 思路总结
+
+- https://www.bilibili.com/video/BV1vb421H71y?t=54.0&p=4
+
+- 被动语态的句子是完整句
+- 出现形式主语和形式宾语 it，视作 it 不存在
+- 双宾语动词如果后面只有一个名词，需要使用被动（tell/call）
+- It is proved that … 某件事已经得到了证明
+- 形容词变副词特殊变化：全部真正担当负责的温柔，可能简单的不可思议的可怕（full / whole / true / considerable / responsible / gentle / possible / probable / simple / incredible / horrible / terrible / remarkable）
+
+# 考点总结
+
+## 无提示词空格后面是短语——冠词、介词
+
+- 冠词判断空格后面名词是否是独一无二的；介词重点积累常见用法
+
+## 无提示词空格后面是句子——从句关系词、连词
+
+- 观察前后两句话是否完整，是否缺少名词
+- 主句不完整、从句完整：how / why / whether
+- 主句完整、从句不完整：从句缺人 that / who；缺物 that / which
+
+## 动词作谓语——判断时态语态
+
+- 过去现在将来、主动被动、主语单复数
+
+## 动词作非谓语——判断主动或被动
+
+- 主动：doing 同时发生动作、to do 目的预期结果；
+- 被动：done
+
+## 形容词副词的比较级和最高级
+
+- 简单词：+er / +est；
+- 复杂词：more / most + 原形
+
+## 代词形式的变换——名词、形容词
+
+## 词性变换——动词、名词、形容词、副词之间转换
+
+- 词汇积累
