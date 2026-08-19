@@ -27,12 +27,12 @@ Smoke jumpers are firefighters, trained to fight fires in places that fire engin
 A
 
 My name is Barbara and I work at a department store.
-I (11)______ (work) there for one year when another Barbara joined the staff.
+I (11)___had worked___ (work) there for one year when another Barbara joined the staff.
 Then I changed my name tag from "Barb" to "Barbie".
-(12)______ made me feel funny was how small kids talked about me.
+(12)___What___ made me feel funny was how small kids talked about me.
 "Is she really Barbie?" they asked.
 I changed it at my other job, too and began answering the phone, "This is Barbie. How can I help you?"
-The callers have gotten used to that over time, ninety percent of (13)______ now respond with my name: "Barbie, can you tell me..."
+The callers have gotten used to that over time, ninety percent of (13)___whom___ now respond with my name: "Barbie, can you tell me..."
 Pronouncing that long "e" sound forces your mouth into a smile, but I have found the smile is usually returned voluntarily.
 ```
 
@@ -62,7 +62,7 @@ I **have studied** in UK _for a year_. 过去到现在（现在还在）
 I **had studied** in UK _for a year_ before I **found** a job. 过去之前
 ```
 
-## 12 无提示词后是句子：从句引导词
+## 12 无提示词后面是句子：从句引导词
 
 ```markdown
 ==What== **made** me (to) feel funny
@@ -83,7 +83,7 @@ I didn't know how the meeting was.
 I didn't know what the meeting was.
 ```
 
-## 13 无提示词后是句子：从句引导词
+## 13 无提示词后面是句子：从句引导词
 
 ```markdown
 The callers **have gotten** used to that over time,
@@ -107,11 +107,11 @@ many of / much of / some of / ninety percent of / a lot of ... “许多的”
 B
 
 It's said that for the Englishman, his house is his castle.
-However, this does not mean that his house is a beautiful palace that others (14)______ (invite) to see.
+However, this does not mean that his house is a beautiful palace that others (14)___are invited___ (invite) to see.
 For the British, the home is a place to protect oneself from the outside world.
-It's a private place in which he goes to hide away (15)______ the troubles of life.
-To the American, the home is an expression of (16)______ (he).
-Much money is often spent on each and every room (17)______ (create) the right "feel" according to the person's lifestyle.
+It's a private place in which he goes to hide away (15)___from___ the troubles of life.
+To the American, the home is an expression of (16)___himself___ (he).
+Much money is often spent on each and every room (17)___to create___ (create) the right "feel" according to the person's lifestyle.
 Therefore, he is happy to show his house to others.
 ```
 
@@ -134,7 +134,7 @@ invite - invitation
 - https://www.bilibili.com/video/BV1vb421H71y?t=2163.0&p=6
 - 面对题目脑中需要立刻想到的，想的越直接，说明对考点越熟悉
 
-## 15 无提示词后是短语：介词
+## 15 无提示词后面是短语：介词
 
 ```markdown
 It **is** a private place
@@ -183,12 +183,12 @@ creatable adj可创造的
 C
 
 Smoke jumpers are firefighters, trained to fight fires in places that fire engines can't reach.
-They travel in small planes and, (18)______ (use) a parachute, jump into remote wild areas to fight fires.
+They travel in small planes and, (18)___using___ (use) a parachute, jump into remote wild areas to fight fires.
 Smoke jumpers have to respond quickly.
-While a fire is still small, the pilot (19)______ (drop) team members into the area as needed.
+While a fire is still small, the pilot (19)___drops / will drop___ (drop) team members into the area as needed.
 Their first job may be to build a fire line to stop the fire from spreading.
 Water is sent down to them.
-Smoke jumpers must be (20)______ (high) trained, very experienced and extremely fit.
+Smoke jumpers must be (20)___highly___ (high) trained, very experienced and extremely fit.
 Their job is very dangerous.
 ```
 
