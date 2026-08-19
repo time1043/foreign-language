@@ -36,7 +36,7 @@ Sharon is one of 38 women from the UK to have received the award.
 The award aims to support brilliant women to (13)___fully___ (full) achieve their visions and change the world in future.
 ```
 
-## 11 动词作谓语——时态/语态/主语
+## 11 动词作谓语（一般过去/主动/单数）
 
 ```markdown
 Sharon Brown **won** a Women _in Innovation award_ _in 2021_ _for her work_ in developing a blood test
@@ -56,7 +56,7 @@ Sharon Brown **won** a Women _in Innovation award_ _in 2021_ _for her work_ in d
 win - won - won - winning
 ```
 
-## 12 动词作非谓语——主动/被动
+## 12 动词作非谓语（被动）
 
 ```markdown
 The award **was given** _by an organisation_ _called_ Innovate UK for International Women's Day celebrations.
@@ -70,7 +70,7 @@ call him my friend “把他称作我的朋友”
 tell sb sth; call A B 双宾语动词如果后面只有一个名词，需要使用被动
 ```
 
-## 13 词性变换
+## 13 词性变换（形容词变副词）
 
 ```markdown
 The award **aims** _to support_ brilliant women _to fully achieve_ their visions ==and== _change_ the world in future.
@@ -124,7 +124,7 @@ The Chinese language is one of the six official languages chosen by the United N
 The date was selected from Guyu, (16)___which___ is the 6th of 24 solar terms in the traditional Chinese calendar.
 ```
 
-## 14 动词作非谓语——主动被动
+## 14 动词作非谓语（主动/目的）
 
 ```markdown
 Language Days _at the United Nations_ **seek** _to celebrate_ cultural diversity ==and== _promote_ equal usage of the official languages.
@@ -147,7 +147,7 @@ _to do_ sth and _do_ sth 两个非谓语并列（能够反推出to do）
 doing sth and to do sth 很怪异 机率很低
 ```
 
-## 15 动词作谓语——时态/语态/主语
+## 15 动词作谓语（一般现在/被动/单数）
 
 ```markdown
 The Chinese language **is** one _of the six official languages_ chosen by the United Nations,
@@ -161,7 +161,7 @@ and并列句子
 主语：单数
 ```
 
-## 16 无提示词后面是句子：从句引导词
+## 16 无提示词后面是句子：从句引导词（主v从x）
 
 ```markdown
 The date **was selected** _from Guyu_,
@@ -211,7 +211,7 @@ Self-discipline **is** essential for every person, regardless _of his age_, clas
 - 前后不变的基本不会考察
 - “某人的东西”考察的概率很低
 
-## 18 动词作谓语——时态/语态/主语
+## 18 动词作谓语（一般现在/主动/单数）
 
 ```markdown
 It **also helps** in making good use of the available time.
@@ -249,7 +249,7 @@ in + 整体范围、领域、区域
 随着阅读增加，介词难题会不攻自破
 ```
 
-## 20 无提示词后面是句子：从句引导词
+## 20 无提示词后面是句子：从句引导词（主x从v）
 
 ```markdown
 It **is proved**

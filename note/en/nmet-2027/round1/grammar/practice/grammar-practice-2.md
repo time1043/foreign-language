@@ -34,7 +34,7 @@ Even if we don't share our writing with anyone, the act of completing the exerci
 The more we express gratitude, the more positive we feel.
 ```
 
-## 11 动词作谓语——判断时态/语态/主语单复数
+## 11 动词作谓语（现在完成/主动/复数）
 
 ```markdown
 _Over the past thirty years_, there **have been** many studies _showing_
@@ -52,7 +52,7 @@ recently “最近”
 使用现在完成时，句中必然有表示过去到现在的特殊时间标志
 ```
 
-## 12 动词作非谓语——主动被动
+## 12 动词作非谓语（主动/目的）
 
 ```markdown
 ==that== writing a gratitude letter _to another person_ **offers** us an opportunity _to escape_ _from negative emotions_.
@@ -129,7 +129,7 @@ With confidence, the kid do sth. // 用with 不用has 可以用动词干别的�
 能用一句话解决的，就不要一段话；
 ```
 
-## 15 动词作谓语——判断时态/语态/主语单复数
+## 15 动词作谓语（一般过去/被动/单数）
 
 ```markdown
 ==Before== _getting_ out of the taxi,
@@ -147,7 +147,7 @@ I **was told**
 过去完成，要求同一句话里，有两个过去，强调先后顺序 // 显眼的标志，没有就别考虑
 ```
 
-## 16 无提示词后面是句子：从句关系词
+## 16 无提示词后面是句子：从句引导词（主v从x）
 
 ```markdown
 ==that== the ride _with the taxi driver_ **is** always an important experience
@@ -171,7 +171,7 @@ It sounds foolish.
 But many people, though (19)___complaining___ (complain) about the stupid quizzes, still take them, wondering (20)___whether___ their answers generate their correct birth year.
 ```
 
-## 17 动词作非谓语——主动被动
+## 17 动词作非谓语（被动）
 
 ```markdown
 Yet the Internet **is** full of quizzes _made_ _to help_ you determine
@@ -183,7 +183,7 @@ Yet the Internet **is** full of quizzes _made_ _to help_ you determine
 提示词是动词：考察谓语、考察非谓语、考察词性变化
 ```
 
-## 18 动词作谓语——判断时态/语态/主语单复数
+## 18 动词作谓语（过去进行/主动/单数）
 
 ```markdown
 These **are usually based** on
@@ -200,7 +200,7 @@ time后面的从句，往往省略关系词
 过去进行的被动考的特别少 was/were being done
 ```
 
-## 19 动词作非谓语——主动被动
+## 19 动词作非谓语（主动/伴随）
 
 ```markdown
 ==But== many people,
@@ -222,7 +222,7 @@ complain v. - complaining, complained
 complaint n. - complaints
 ```
 
-## 20 无提示词后面是句子：从句关系词
+## 20 无提示词后面是句子：从句引导词（主x从v）
 
 ```markdown
 主x从v 宾语从句

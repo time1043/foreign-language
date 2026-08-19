@@ -32,7 +32,7 @@ Interested in the selflessness of ants, which would sacrifice themselves for the
 It made him influential as both a close observer and a pioneering theorist.
 ```
 
-## 11 动词作谓语——时态/语态/主语
+## 11 动词作谓语（过去进行/主动/单数）
 
 ```markdown
 Edward O. Wilson, the "modern-day Charles Darwin", **damaged** his right eye
@@ -90,7 +90,7 @@ creation n 创造（事件/结果）
 creature n 生物 // 造物主创造出的
 ```
 
-## 13 动词作非谓语——主动被动
+## 13 动词作非谓语（主动/伴随）
 
 ```markdown
 Interested _in the selflessness_ _of ants_, // 非谓语 不管
@@ -128,7 +128,7 @@ Besides, gratitude may lead people to engage in behaviors that help keep them he
 Now researchers still need to make it clear (16)___why___ gratitude is so good for our health.
 ```
 
-## 14 动词作谓语——时态/语态/主语
+## 14 动词作谓语（一般现在/主动/单数）
 
 ```markdown
 The evidence _of existing studies_ **suggests**
@@ -155,7 +155,7 @@ healthy - healthier - healthiest ✅ 简单
 healthy - more healthy - most healthy ✅ 复杂
 ```
 
-## 16 无提示词后面是句子：从句引导词
+## 16 无提示词后面是句子：从句引导词（主x从v）
 
 ```markdown
 Now researchers **still need** _to make_ it clear
@@ -195,7 +195,7 @@ Then, the astronauts had real-time interactions with students (18)___through___ 
 At the end of the class, the crew said, "We expect you guys (20)___to build___ (build) our space home better in the future. "
 ```
 
-## 17 无提示词后面是句子：从句引导词
+## 17 无提示词后面是句子：从句引导词（主v从v）
 
 ```markdown
 _During the class_, the crew **showed** the students a science glove-box,
@@ -233,7 +233,7 @@ through + sb/sth “通过某人/某物” // through video calls
 by + doing sth “通过某个动作” // by making video calls
 ```
 
-## 19 动词作谓语——时态/语态/主语
+## 19 动词作谓语（一般将来/被动/复数）
 
 ```markdown
 "What kinds of plants **will be brought** _to space_ _in future spaceflights_?"
@@ -245,7 +245,7 @@ bring sth // 如果动词后面应该有名词，但是句中没有，那么该�
 bring - brought - brought - bringing
 ```
 
-## 20 动词作非谓语——主动被动
+## 20 动词作非谓语（主动/目的）
 
 ```markdown
 _At the end of the class_, the crew **said**,

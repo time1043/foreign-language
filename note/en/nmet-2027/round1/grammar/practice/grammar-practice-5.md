@@ -37,7 +37,7 @@ For a decade I worked as a freelance filmmaker and photographer.
 I recorded a wide range of genres, therefore (13)___collecting___ (collect) tens of thousands of images—both still and moving.
 ```
 
-## 11 动词作谓语——时态/语态/主语
+## 11 动词作谓语（一般过去/被动/复数）
 
 ```markdown
 _Cherished_ family moments **were documented**.
@@ -55,7 +55,7 @@ document n文档；v记录
 过去完成 had been documented 🙅
 ```
 
-## 12 无提示词后面是句子：从句引导词
+## 12 无提示词后面是句子：从句引导词（主v从x）
 
 ```markdown
 I **am** grateful _for_ these visual records ==that / which== **showed** our youth and growth.
@@ -64,7 +64,7 @@ I **am** grateful _for_ these visual records ==that / which== **showed** our you
 物 that / which
 ```
 
-## 13 动词作非谓语——主动/被动
+## 13 动词作非谓语（主动/伴随）
 
 ```markdown
 I **recorded** a wide range _of genres_,
@@ -121,7 +121,7 @@ and/or并列的内容判断，重点关注后面的内容
 2 并列：“狮子在捕猎”？✅ // “狮子”对应“大象”
 ```
 
-## 15 词性转换
+## 15 词性变换（动词变名词）
 
 ```markdown
 His team **combined** data _from 138 studies_ _testing_ more than 11,000 participants
@@ -169,7 +169,7 @@ and表示并列：A and B
 and表示列举：A, B, and C 三者并列；A, B, C, and D 四者并列
 ```
 
-## 17 动词作非谓语——主动/被动
+## 17 动词作非谓语（主动/目的）
 
 ```markdown
 These findings **are** exciting
@@ -199,7 +199,7 @@ The process before drawing is known as "diancha".
 The quality of it is crucial to (20)___whether___ the patterns can be successfully produced later.
 ```
 
-## 18 动词作谓语——时态/语态/主语
+## 18 动词作谓语（现在完成/主动/单数）
 
 ```markdown
 By drawing patterns
@@ -222,7 +222,7 @@ go - went - gone
 - https://www.bilibili.com/video/BV1vb421H71y?t=3127.8&p=5
 - 养成做题的感觉：看到一些东西，跟触电一样
 
-## 19 动词作谓语——时态/语态/主语
+## 19 动词作谓语（一般现在/主动/单数）
 
 ```markdown
 ==When== the water **touches** the surface of tea,
@@ -231,7 +231,7 @@ it **turns** into a white color ==and== **disappears** in 20 minutes.
 谓语：一般现在、主动、单数
 ```
 
-## 20 无提示词后面是句子：从句引导词
+## 20 无提示词后面是句子：从句引导词（主x从v）
 
 ```markdown
 The quality _of it_ **is** crucial to

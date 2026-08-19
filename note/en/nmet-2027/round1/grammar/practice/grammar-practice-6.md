@@ -36,7 +36,7 @@ The callers have gotten used to that over time, ninety percent of (13)___whom___
 Pronouncing that long "e" sound forces your mouth into a smile, but I have found the smile is usually returned voluntarily.
 ```
 
-## 11 动词作谓语——时态/语态/主语
+## 11 动词作谓语（过去完成/主动/单数）
 
 ```markdown
 I **had worked** there _for one year_
@@ -62,7 +62,7 @@ I **have studied** in UK _for a year_. 过去到现在（现在还在）
 I **had studied** in UK _for a year_ before I **found** a job. 过去之前
 ```
 
-## 12 无提示词后面是句子：从句引导词
+## 12 无提示词后面是句子：从句引导词（主x从x）
 
 ```markdown
 ==What== **made** me (to) feel funny
@@ -83,7 +83,7 @@ I didn't know how the meeting was.
 I didn't know what the meeting was.
 ```
 
-## 13 无提示词后面是句子：从句引导词
+## 13 无提示词后面是句子：从句引导词（主v从x）
 
 ```markdown
 The callers **have gotten** used to that over time,
@@ -115,7 +115,7 @@ Much money is often spent on each and every room (17)___to create___ (create) th
 Therefore, he is happy to show his house to others.
 ```
 
-## 14 动词作谓语——时态/语态/主语
+## 14 动词作谓语（一般现在/被动/复数）
 
 ```markdown
 However, this **does not mean**
@@ -156,7 +156,7 @@ To the American, the home **is** an expression of himself.
 his home - himself “他的家”对应“他自己”
 ```
 
-## 17 动词作非谓语——主动/被动
+## 17 动词作非谓语（主动/目的）
 
 ```markdown
 Much money **is often spent** on (each and every) room _to create_ the right "feel"
@@ -192,7 +192,7 @@ Smoke jumpers must be (20)___highly___ (high) trained, very experienced and extr
 Their job is very dangerous.
 ```
 
-## 18 动词作非谓语——主动/被动
+## 18 动词作非谓语（主动/伴随）
 
 ```markdown
 They **travel** _in small planes_ ==and==,
@@ -212,7 +212,7 @@ _using_ a parachute.
 and连接两个动作：连续动作顺序
 ```
 
-## 19 动词作谓语——时态/语态/主语
+## 19 动词作谓语（一般现在/主动/单数）
 
 ```markdown
 ==While== a fire **is** still small,
@@ -228,7 +228,7 @@ drop sth 掉落某物
 drop sb 在某处送某人
 ```
 
-## 20 词性变化：形容词变副词
+## 20 词性变换（形容词变副词）
 
 ```markdown
 Smoke jumpers **must be** _highly_ **trained**, very **experienced** and extremely **fit**.

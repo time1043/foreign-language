@@ -62,7 +62,7 @@ u开头读“优”/ju:/，用a // _a_ university, _a_ universe, _a_ uniform
 h开头不发音，用an // _an_ hour
 ```
 
-## 12 动词作谓语——判断时态/语态/主语单复数
+## 12 动词作谓语（现在进行/主动/复数）
 
 ```markdown
 _Quite a number of folks_ **are struggling** _with poverty_ there,
@@ -82,7 +82,7 @@ _a number of folks_ folks 复数
 主动 “很多人主动挣扎在贫困线上”
 ```
 
-## 13 无提示词后面是句子：从句关系词
+## 13 无提示词后面是句子：从句引导词（主x从v）
 
 ```markdown
 She **invited** experts
@@ -112,7 +112,7 @@ As to house rents, most college graduates still need (16)___assistance___ (assis
 (17)___To help___ (help) lower the financial burdens of young people, many governments and companies have given their support in house rentals.
 ```
 
-## 14 无提示词后面是句子：从句关系词
+## 14 无提示词后面是句子：从句引导词（主v从x）
 
 ```markdown
 Governments at all levels **have made** continuous efforts _to reduce_ the financial burden _on house renters_, _especially_ those
@@ -127,7 +127,7 @@ Governments at all levels **have made** continuous efforts _to reduce_ the finan
 "those who / which ..." 建议记住 常考
 ```
 
-## 15 动词作非谓语——主动被动
+## 15 动词作非谓语（被动）
 
 ```markdown
 A report by the Meadin Academy **says**
@@ -144,7 +144,7 @@ survey 动词？名词？
 如果动词后面应该有名词，但是句中没有，那么该动词很可能是被动
 ```
 
-## 16 词性变换——名动形副
+## 16 词性变换（形容词变名词）
 
 ```markdown
 As to house rents,
@@ -163,7 +163,7 @@ assistance n. 帮助 // help
 语法填空尽量杜绝由繁入简
 ```
 
-## 17 动词作非谓语——主动被动
+## 17 动词作非谓语（主动/目的）
 
 ```markdown
 _To help_ _lower_ the financial burdens _of young people_,
@@ -205,7 +205,7 @@ _From indoor exhibitions_ to outdoor concerts and night cycling _along the South
 from A to B 从A到B，用于描述范围、变化、起点终点
 ```
 
-## 19 动词作谓语——判断时态/语态/主语单复数
+## 19 动词作谓语（一般将来/被动/复数）
 
 ```markdown
 a series of activities **will be introduced** _next month_ ==so that== urban residents **can enjoy** themselves.
@@ -222,7 +222,7 @@ next month
 复数？单数？
 ```
 
-## 20 动词作谓语——判断时态/语态/主语单复数
+## 20 动词作谓语（一般现在/主动/单数）
 
 ```markdown
 An official of the China Tourism Academy **said**,
@@ -251,18 +251,18 @@ and到底在并列谁？看and后面的内容！
 
 - 20 min
 
-|     | Correct Answer     | My Answer      | Status | Analyze                                                                                                                          |
-| --- | ------------------ | -------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 11  | a                  | a              | ✅     |                                                                                                                                  |
-| 12  | are struggling     | struggles      | 🙅     | 一看上下句是一般现在，就直接填了，分析链条错误；<br>`a number of n.` 错误地当作单数（其实应该取决于 `n.`）；                     |
-| 13  | how                | how            | ✅     |                                                                                                                                  |
-| 14  | who                | that / who     | 🙅     | 分析出了，修饰人的定语从句；<br>但没有记住不能用 that 的情况，应该记住固定搭配 `those who / which`，以及三种不能用 that 的情况； |
-| 15  | surveyed           | survey         | 🙅     | 对核心词汇 survey 不熟悉；<br>对句子结构分析错误/产生疑惑，从而误判题目考点；                                                    |
-| 16  | assistance         |                | 🙅     | 题目勘误；<br>对核心词汇 assist 的各个词性不熟悉；<br>当判断缺名词的时候，填入 assistants，完全不符合语义，强加“名词复数”考点；  |
-| 17  | To help            |                | 🙅     | 题目勘误；                                                                                                                       |
-| 18  | to                 | to             | ✅     |                                                                                                                                  |
-| 19  | will be introduced | will introduce | 🙅     | 成功判断“将来”，但忽略“被动”，应该完整系统分析题目链条；                                                                         |
-| 20  | has / will have    | have           | 🙅     | 句子结构复杂，没分析出来，但其实应该是纸老虎；<br>限时训练时间没把控好，心里露怯，动作变形；                                     |
+|     | Correct Answer     | My Answer      | Status | Analyze                                                                                                                                                 |
+| --- | ------------------ | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  | a                  | a              | ✅     |                                                                                                                                                         |
+| 12  | are struggling     | struggles      | 🙅     | 一看上下句是一般现在，就直接填了，分析链条错误；<br>`a number of n.` 错误地当作单数（其实应该取决于 `n.`）；                                            |
+| 13  | how                | how            | ✅     |                                                                                                                                                         |
+| 14  | who                | that / who     | 🙅     | 分析出了，修饰人的定语从句；<br>但没有记住不能用 that 的情况，应该记住固定搭配 `those who / which`，以及三种不能用 that 的情况；                        |
+| 15  | surveyed           | survey         | 🙅     | 对核心词汇 survey 不熟悉；<br>对句子结构分析错误/产生疑惑，从而误判题目考点；                                                                           |
+| 16  | assistance         |                | 🙅     | 题目勘误；<br>对核心词汇 assist 的各个词性不熟悉；<br>当判断缺名词的时候，填入 assistants，完全不符合语义，强加“名词复数”考点；                         |
+| 17  | To help            |                | 🙅     | 题目勘误；                                                                                                                                              |
+| 18  | to                 | to             | ✅     |                                                                                                                                                         |
+| 19  | will be introduced | will introduce | 🙅     | 成功判断“将来”，但忽略“被动”，应该完整系统分析题目链条；                                                                                                |
+| 20  | has / will have    | have           | 🙅     | 句子结构复杂，没分析出来，错误思路：`and 并列名词 -> 动词作非谓语 -> 主动伴随 having`——“吸引整合”有问题；<br>限时训练时间没把控好，心里露怯，动作变形； |
 
 # 思路总结
 
