@@ -166,6 +166,23 @@ We need evidence to support this strategy.
 - politics n. 政治
 - polish v. 打磨
 
+## 486 | 578 | 1191 | 1339 `case|situation|occasion|circumstance`
+
+- case n. 案例
+- occasion n. 场合（时间 + 活动）
+- situation n. 情况（整体局势）
+- circumstance n. 情况（周边客观环境）
+
+---
+
+- accident n. 事故
+- incident n. 事件
+
+```
+But I am cautious about this video's opinions. TBH you should pay attention to the specific contents instead of the approach on many occasions. 
+The reason why we should do this is that focusing too much on the approach can trick you into stopping learning specific content without progress. The lesson comes from my high school experience
+```
+
 ## 500 | 1461 `immediate|instantly`
 
 - instant adj. 立刻的
@@ -193,7 +210,6 @@ from zero to hero
 - career n. 职业
 - cancel v. 取消
 - cancer n. 癌症
-
 - https://career.oppo.com/
 
 ## 619 | 661 | 1210 `insist|assist|resist`
@@ -243,9 +259,13 @@ deepseek-v4-pro
 ## 801 `race`
 
 - race n. 比赛 竞速
-- racial adj.
-- racism 种族主义
 - rice n. 大米
+- rare adj. 罕见的
+
+---
+
+- racial adj. 种族的
+- racism 种族主义
 
 ## 969 | 1136 | 1396 `exit|entrance|entry`
 
@@ -308,6 +328,25 @@ Did he decline my offer?
 
 - decrease v. n. 减少
 
+## 1145 | 1171 `few|little`
+
+- few adj. 少（可数）
+- little adj. 少（不可数）
+
+---
+
+- a few 一些（可数）
+- a little 一些（不可数）
+
+---
+
+- many 许多（可数）
+- much 许多（不可数）
+
+```
+There is so much stuff in my mind.
+```
+
 ## 1146 | 1448 | 766 `fire|hire|employ`
 
 - fire v. 开火/开除 n. 火
@@ -362,7 +401,7 @@ The firm employs 200 workers. 正式
 
 - obtain v. 获得（正式书面）
 - gain v. 获得（慢慢累积）
-- get
+- get v. 拿到（口语）
 
 ```
 obtain permission
@@ -370,6 +409,44 @@ obtain permission
 gain experience
 gain an advantage
 ```
+
+## 1192 | 350 | 163 `occur|happen|appear`
+
+- occur v. 发生（书面 规律）
+- happen v. 发生（口语 偶然）
+- appear v. 出现（从无到有）
+
+---
+
+- appear v. 出现
+- appeal v. n. 吸引 呼吁
+
+---
+
+- occur - occurring - occurred
+- occupy v. 占用
+
+```
+What happened? = What is wrong?
+The accident happened yesterday.
+
+Errors often occur here.
+The storm occurred at night.
+
+A warning icon appeared on screen.
+He appears nervous.
+```
+
+## 1193 `oppose`
+
+- oppose v. 反对
+- opponent n. 对手
+- opportunity n. 机会
+
+---
+
+- oppose v. 反对
+- against prep. 相反
 
 ## 1353 `consult`
 
@@ -456,14 +533,60 @@ pocket monster 口袋妖怪 宝可梦
 
 ## 1535 | 1194 `particular|participate`
 
-- particular adj. 特定的
-- participate v. 参与
-- special adj. 特殊的
-- especial adj. 尤其的
-- especially adv. 尤其地
-- specific
-- specificity
+- particular adj. 特定的（锁定对象）
+- special adj. 特殊的（与众不同 不一样的情感）
+- ~~especial adj. 尤其的（现代英语少见）~~
+
+```
+I like this particular beach. // 锁定对象 是这个不是那个
+
+a special day // 值得纪念
+I like the special beach. // 我对这个沙滩 有不一样的情感
+```
+
+- particularly adv. 尤其 = especially
+- specially adv. 特地（强调目的）
+- especially adv. 尤其地（强调程度）
+
+```
+I like fruits, especially mangoes.
+It is especially cold today.
+
+I came specially to see the beach.
+The tool is specially designed for repairing phone.
+```
+
+- specific adj. 具体的
+- specificity n. 具体性
 - specifically adv. 具体地
+
+```
+In today's video, I am in Panama City Beach, but specifically, right now I am on a pier.
+```
+
+- particular adj. 特定的
+- participate v. 参与（参与活动 正式）
+- take part in 参与（参与活动 口语）
+- join v. 加入（加入团体）
+- join in 加入（加入活动）
+- engage v. 吸引 使参加
+- engage in 从事（从事事务 投入精力 正式）
+- involve v. 涉及
+- be involved in 被涉及 卷入
+
+```
+Everyone can participate in the discussion.
+
+I took part in the race. 
+
+join the club
+join us
+join in our game
+
+engage in research
+
+He was involved in the project.
+```
 
 ## 1573 `resolution`
 
@@ -582,7 +705,23 @@ Would you like some mooncakes?
 - raw adj. 生的
 - origin n. 起源
 - original adj. 原始的
-- mature adj. 成熟的
-
 - https://github.com/time1043/feedah/blob/mvp/260830/src/app/_layout.tsx blob
 - https://raw.githubusercontent.com/time1043/feedah/refs/heads/mvp/260830/src/app/_layout.tsx raw
+
+```
+git push origin main -u
+```
+
+---
+
+- mature adj. 成熟的（人 思想方案）
+- ripe adj. 成熟的（水果谷物 时机）
+
+```
+mature adult 
+The plan is mature.
+
+ripe apple
+The banana is ripe.
+The time is ripe.
+```
