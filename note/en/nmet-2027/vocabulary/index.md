@@ -20,9 +20,13 @@
 - sharp adj. 尖的 清晰的
 - shave v. 刮
 
+---
+
 - shame n. 羞愧 v.
 - shameful adj. 可耻的
 - ashamed adj. 羞愧的
+
+---
 
 - shade n. 阴凉处
 - shadow n. 阴影
@@ -109,6 +113,8 @@ The exploration of the mountain took 3 months.
 - owner n.
 - ownership n.
 
+---
+
 - drown v. 溺水
 - brown adj. 棕色的
 - gown n. 长袍
@@ -138,6 +144,7 @@ deepseek-v4-pro
 - race n. 比赛 竞速
 - racial adj.
 - racism 种族主义
+- rice n. 大米
 
 ## 969 | 1136 | 1396 `exit|entrance|entry`
 
@@ -165,6 +172,8 @@ deepseek-v4-pro
 - tap n. 水龙头 v. 轻拍（点触手机屏幕）
 - tip n. 提示 小费 尖端
 
+---
+
 - tap - tapping
 
 ## 1057 | 1058 | 1777 | 1979 `trans`
@@ -173,6 +182,8 @@ deepseek-v4-pro
 - transport v. n. 运输
 - transfer v. n. 转移
 - transparent adj. 透明的
+
+---
 
 - translate v. 翻译
 - translation n. 翻译
@@ -219,6 +230,8 @@ The firm employs 200 workers. 正式
 - entire adj. 整个的
 - whole adj. 全部的
 
+---
+
 - extremely adv. 极其
 - absolutely adv. 绝对地
 
@@ -248,6 +261,8 @@ It is extremely difficult.
 - movie n. 电影
 - film n. 电影
 
+---
+
 - firm n. 公司 adj. 牢固的
 - firmly adv.
 - firmer adj.
@@ -264,8 +279,12 @@ confirm password
 - purchase v. 购买
 - buy v. 购买
 
+---
+
 - parcel n. 包裹
 - package
+
+---
 
 - pocket n. 口袋
 
@@ -335,6 +354,8 @@ pocket monster 口袋妖怪 宝可梦
 - dinner n. 晚餐/正餐（最丰盛）
 - supper n. 晚餐/宵夜（晚上吃的简单）
 
+---
+
 - lunch n. 午饭
 - launch v. 发起
 
@@ -348,6 +369,8 @@ pocket monster 口袋妖怪 宝可梦
 
 - type n. 类型 v. 打字
 - tyre n. 轮胎
+
+---
 
 - type n. 类型 v. 打字
 - typist n.
@@ -368,6 +391,8 @@ UN: the United Nations
 
 - wound n. 伤口 v. 使受伤
 - would 情态动词 将要/愿意
+
+---
 
 - will - would
 
@@ -399,8 +424,12 @@ It is evident that the plan worked. // 有证据支撑 书面正式
 - obvious adj.
 - obviously adv.
 
+---
+
 - apparent adj.
 - apparently adv.
+
+---
 
 - evident adj.
 - evidently adv.
