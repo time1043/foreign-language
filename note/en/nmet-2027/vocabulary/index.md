@@ -1,14 +1,14 @@
-## 71 | 280 | 1564 `explain|complain|plain`
+## 71 | 280 | 1546 `explain|complain|plain`
 
 - plain adj. 直白的
 - explain v. 解释（向外 + 直白的 = 解释）
 - complain v. 抱怨（总是 + 直白的 = 抱怨）
 
-## 112 | 1148 | 1879 | 1432 `escape|flee|getaway|gate`
+## 122 | 1148 | 1879 | 1432 `escape|flee|getaway|gate`
 
 - escape v. 逃跑
-- flee n. 逃跑
-- fled v.
+- flee v. 逃跑
+- fled 过去式
 - getaway n. 逃跑
 - gateway n. 网关
 - gate n. 大门
@@ -33,7 +33,7 @@
 - explode v. 爆炸
 
 ```
-// win 
+// win
 explore.exe .
 ```
 
@@ -47,7 +47,7 @@ explore.exe .
 Exploring the cave is fun.
 
 // doing 现在分词 动词的一部分 用来构成进行时
-He is exploring the cave. 
+He is exploring the cave.
 
 // doing 现在分词 作形容词 修饰名词 强调正在发生的动作
 The exploring team found something. // 正在搜索的小队
@@ -71,9 +71,10 @@ The exploration of the mountain took 3 months.
 
 ## 463 `motivation`
 
+- motive
 - motivation n. 动力
 - motivate v.
-- momentum 动量
+- momentum n. 动量
 
 ## 465 `polite`
 
@@ -98,7 +99,7 @@ The exploration of the mountain took 3 months.
 - resist v. 抵抗
 - consist v. 包含
 - consistently adv. 一贯地
-- persistent
+- persistent adj. 坚持不懈的
 - persistence n. 坚持不懈
 
 ## 627 | 1015 `owe|own`
@@ -127,7 +128,7 @@ deepseek-v4-pro
 
 ## 725 | 1574 `strict|restriction`
 
-- strict adj. 严格地
+- strict adj. 严格的
 - restrict v. 限制
 - restriction n. 限制
 - district n. 区域
@@ -138,9 +139,9 @@ deepseek-v4-pro
 - racial adj.
 - racism 种族主义
 
-## 969 | 1136 | 1369 `exit|entrance|entry`
+## 969 | 1136 | 1396 `exit|entrance|entry`
 
-- exit n. 出口 v. 推出
+- exit n. 出口 v. 退出
 - entrance n. 入口
 - entry n. 进入 条目 参赛作品
 
@@ -155,10 +156,10 @@ deepseek-v4-pro
 
 - temporary adj. 临时的
 - permanent adj. 永久的
-- enteral adj. 永恒的
-- enternity n. 永恒
+- eternal adj. 永恒的
+- eternity n. 永恒
 
-## 1054 | 1635 | 1649 `top|tap|tip`
+## 1054 | 1636 | 1649 `top|tap|tip`
 
 - top n. 顶端
 - tap n. 水龙头 v. 轻拍（点触手机屏幕）
@@ -166,7 +167,7 @@ deepseek-v4-pro
 
 - tap - tapping
 
-## 1057 | 1058 | 1777 1979 `trans`
+## 1057 | 1058 | 1777 | 1979 `trans`
 
 - transform v. 改变
 - transport v. n. 运输
@@ -180,7 +181,7 @@ deepseek-v4-pro
 The teacher asks students for a translation from Chinese into English.
 ```
 
-## 1146 | 1148 | 766 `fire|hire|exploy`
+## 1146 | 1448 | 766 `fire|hire|employ`
 
 - fire v. 开火/开除 n. 火
 - hire v. n. 雇佣
@@ -226,7 +227,7 @@ It is absolutely wrong.
 It is extremely difficult.
 ```
 
-## 1450 | 1329 | 1328 `hold|cave|carve`
+## 1450 | 1329 | 1328 `hole|cave|carve`
 
 - hole n. 洞
 - cave n. 洞穴 v.
@@ -242,7 +243,7 @@ It is extremely difficult.
 - loyal adj. 忠诚的
 - royal adj. 皇室的
 
-## 1512| 1412 | 548 `movie|film|firm`
+## 1512 | 1412 | 548 `movie|film|firm`
 
 - movie n. 电影
 - film n. 电影
@@ -287,12 +288,12 @@ pocket monster 口袋妖怪 宝可梦
 
 ## 1573 `resolution`
 
-- s0lve v. 解决
+- solve v. 解决
 - solution n. 解决方案
 - resolve v. 下决心
 - resolution n. 决心
 
-## 1577 & 1384 `revise|edit`
+## 1577 | 1384 `revise|edit`
 
 - revise v. 修改（改大框架）
 - modify v. 修改（改一小部分）
@@ -307,7 +308,7 @@ pocket monster 口袋妖怪 宝可梦
 
 ## 1614 | 1613 | 1132 `solid|soldier|enemy`
 
-- solid adj. 固体地
+- solid adj. 固体的
 - soldier n. 士兵
 - enemy n. 敌人
 
@@ -358,17 +359,17 @@ pocket monster 口袋妖怪 宝可梦
 - unit n. 单元
 
 ```
-US: the United States 
+US: the United States
 USA: the United States of America
 UN: the United Nations
 ```
 
-## 1682 | 918 `wound|would`
+## 1682 | 918 `wound|wind`
 
 - wound n. 伤口 v. 使受伤
 - would 情态动词 将要/愿意
 
-- will - would - would
+- will - would
 
 ```
 a deep wound
@@ -383,14 +384,16 @@ Would you like some mooncakes?
 - windy adj. 有风的（/ɪ/ “win”）
 - wendy 人名（/e/ “温”）
 
-## 1692 | 1139 `obvious|apparent|evident`
+## 357 | 1692 | 1139 `obvious|apparently|evidence`
 
 - apparent adj. 显然的（只是表面 可能不是事实）
 - obvious adj. 显然的（事实清楚 肉眼可见）
 - evident adj. 明显的（证据支撑 书面正式）
 
 ```
-
+His calmness was only apparent. // 只是表面 可能不是真的
+It is obvious that he is lying. // 事实清楚 一眼可见
+It is evident that the plan worked. // 有证据支撑 书面正式
 ```
 
 - obvious adj.
@@ -408,21 +411,22 @@ Give me the evidence.
 Show me the evidence.
 Exhibit the evidence.
 
-We need evidence to support this stategy.
+We need evidence to support this strategy.
 ```
 
 ## 1801 | 939 `band|brand`
 
 - band n. 乐队 v. 组队
 - brand n. 品牌
-- brane n. 膜
+- brain n. 大脑
 - branch n. 分支
 
 ## 1938 `raw|row`
 
 - row n. 行
 - raw adj. 生的
-- origin adj. 原始的
+- origin n. 起源
+- original adj. 原始的
 - mature adj. 成熟的
 
 - https://github.com/time1043/feedah/blob/mvp/260830/src/app/_layout.tsx blob
