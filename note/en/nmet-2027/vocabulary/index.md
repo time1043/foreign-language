@@ -1,3 +1,13 @@
+# Convention
+
+## About H2
+
+```
+<position>[ | <position>...] `<word>[|<word>...]`
+```
+
+# List
+
 ## 37 | 681 `experience|experiment`
 
 - experience n. v. 经历 n. 经验
