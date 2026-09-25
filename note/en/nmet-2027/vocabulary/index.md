@@ -1,3 +1,15 @@
+## 37 | 681 `experience|experiment`
+
+- experience n. v. 经历 n. 经验
+- experiment n. v. 实验
+- expert n. 专家
+- expect v. 期待
+
+---
+
+- expensive adj. 贵的
+- expense n. 费用
+
 ## 71 | 280 | 1546 `explain|complain|plain`
 
 - plain adj. 直白的
@@ -30,6 +42,28 @@
 
 - shade n. 阴凉处
 - shadow n. 阴影
+
+## 220 | 410 `persuade|convince`
+
+- persuade v. 说服（改变行为）
+- convince v. 使信服（思想认同 但不一定去做）
+
+```
+You do not even have the patience to express one sentence about the problem, and persuade me to participate in the job. Does it make sense?
+
+I tried to convince my brother to quit smoking, because it causes cancer. 🙅
+I tried to persuade my brother to quit smoking, because it causes cancer. ✅ persuade
+Developing breathing problems convinced my brother to quit smoking. ✅ convinced
+```
+
+## 224 | 1588 `sense|screen`
+
+- sense n. v. 感觉
+- screen n. 屏幕
+
+```
+make sense 符合直觉
+```
 
 ## 344 | 1141 `explore|explode`
 
@@ -73,6 +107,40 @@ The exploration of the mountain took 3 months.
 - exploding - exploded
 - explosion n.
 
+## 357 | 1692 | 1139 `obvious|apparently|evidence`
+
+- apparent adj. 显然的（只是表面 可能不是事实）
+- obvious adj. 显然的（事实清楚 肉眼可见）
+- evident adj. 明显的（证据支撑 书面正式）
+
+```
+His calmness was only apparent. // 只是表面 可能不是真的
+It is obvious that he is lying. // 事实清楚 一眼可见
+It is evident that the plan worked. // 有证据支撑 书面正式
+```
+
+- obvious adj.
+- obviously adv.
+
+---
+
+- apparent adj.
+- apparently adv.
+
+---
+
+- evident adj.
+- evidently adv.
+- evidence n. 证据
+
+```
+Give me the evidence.
+Show me the evidence.
+Exhibit the evidence.
+
+We need evidence to support this strategy.
+```
+
 ## 463 `motivation`
 
 - motive
@@ -94,6 +162,29 @@ The exploration of the mountain took 3 months.
 - instantly adv. 立刻
 - immediately adv. 立刻
 - instantaneous adj. 即刻的
+
+## 528 | 658 | 924 `advantage|adventure|advance`
+
+- advantage n. 优势
+- adventure n. v. 冒险
+- advance v. n. 前进 进阶
+- advert 广告
+
+```
+from scratch
+beginner
+concise
+advance
+from zero to hero
+```
+
+## 599 | 843 | 1325 `career|cancel|cancer`
+
+- career n. 职业
+- cancel v. 取消
+- cancer n. 癌症
+
+- https://career.oppo.com/
 
 ## 619 | 661 | 1210 `insist|assist|resist`
 
@@ -192,6 +283,21 @@ deepseek-v4-pro
 The teacher asks students for a translation from Chinese into English.
 ```
 
+## 1117 `decline`
+
+- decline v. 减少 拒绝
+- refuse
+- reject
+
+```
+NO: reject > refuse > decline / turn down
+Did he reject my offer?
+Did he refuse my offer?
+Did he decline my offer?
+```
+
+- decrease v. n. 减少
+
 ## 1146 | 1448 | 766 `fire|hire|employ`
 
 - fire v. 开火/开除 n. 火
@@ -222,6 +328,50 @@ The firm employs 200 workers. 正式
 - messy adj. 乱的
 - mess n.
 - chaos n. 混乱
+
+## 1181 `merely`
+
+- merely adv. 仅仅 只不过
+
+## 1188 `none`
+
+- none pron. 没有
+- no
+- not
+
+- either
+- neither
+
+## 1189 `tri`
+
+- nutrition n. 营养
+- contribute v. 贡献
+- contribution n. 贡献
+
+## 1190 `obtain`
+
+- obtain v. 获得（正式书面）
+- gain v. 获得（慢慢累积）
+- get
+
+```
+obtain permission
+
+gain experience
+gain an advantage
+```
+
+## 1353 `consult`
+
+- consult v. 咨询
+- enquiry n. 咨询（英式 美 inquiry）
+- consultation n. 咨询
+
+```
+// consultation n. “咨询”具体行为
+// consulting 动名词 “咨询”这个行业/活动本身
+The superpower of AI has destroyed most of consulting. For example, I always consult AI about symptoms, legal issues, and coding problems, instead of a doctor, a lawyer and a teacher.
+```
 
 ## 1400 `extreme`
 
@@ -408,40 +558,6 @@ Would you like some mooncakes?
 - wind - wound - wound
 - windy adj. 有风的（/ɪ/ “win”）
 - wendy 人名（/e/ “温”）
-
-## 357 | 1692 | 1139 `obvious|apparently|evidence`
-
-- apparent adj. 显然的（只是表面 可能不是事实）
-- obvious adj. 显然的（事实清楚 肉眼可见）
-- evident adj. 明显的（证据支撑 书面正式）
-
-```
-His calmness was only apparent. // 只是表面 可能不是真的
-It is obvious that he is lying. // 事实清楚 一眼可见
-It is evident that the plan worked. // 有证据支撑 书面正式
-```
-
-- obvious adj.
-- obviously adv.
-
----
-
-- apparent adj.
-- apparently adv.
-
----
-
-- evident adj.
-- evidently adv.
-- evidence n. 证据
-
-```
-Give me the evidence.
-Show me the evidence.
-Exhibit the evidence.
-
-We need evidence to support this strategy.
-```
 
 ## 1801 | 939 `band|brand`
 
