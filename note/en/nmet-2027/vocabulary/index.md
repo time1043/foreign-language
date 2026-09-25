@@ -179,7 +179,7 @@ We need evidence to support this strategy.
 - incident n. 事件
 
 ```
-But I am cautious about this video's opinions. TBH you should pay attention to the specific contents instead of the approach on many occasions. 
+But I am cautious about this video's opinions. TBH you should pay attention to the specific contents instead of the approach on many occasions.
 The reason why we should do this is that focusing too much on the approach can trick you into stopping learning specific content without progress. The lesson comes from my high school experience
 ```
 
@@ -351,7 +351,6 @@ There is so much stuff in my mind.
 
 - fire v. 开火/开除 n. 火
 - hire v. n. 雇佣
-
 - fireplace n. 壁炉
 - firewood n. 柴火
 - firework n. 烟花
@@ -387,9 +386,52 @@ The firm employs 200 workers. 正式
 - none pron. 没有
 - no
 - not
+- nor
 
-- either
-- neither
+|      |          |         |          |
+| :--- | :------- | :------ | :------- |
+| all  | 所有肯定 | none    | 所有否定 |
+| both | 两者肯定 | neither | 两者否定 |
+
+- both 两者（视作复数）
+- either 两者之一（视作单数）
+- neither 两者都不（视作单数）
+
+```
+I like beaches.
+Me too.
+So do I.
+I like them too.
+
+I don't like rainy days.
+Me neither.
+Neither do I. // 副词句首 后面倒装
+I don't like them either.
+```
+
+```
+// both A and B 两者都
+Both answers are correct. // 两个都对
+She speaks both English and French.
+
+// neither A nor B 两者都不 既不也不
+Neither answer is correct. // 两个都是不对的
+Neither Tom nor Jerry is here.
+
+// either A or B 两者之一 要么要么
+Either answer is correct. // 两个之一是对的 = 两个都是对的
+Either you go, or I go.
+```
+
+- all 三者/及以上都（视作复数）
+- none 三者都不（视作单数）
+
+```
+All the students are here.
+
+None of the students is here.
+None of the students are here.
+```
 
 ## 1189 `tri`
 
@@ -577,7 +619,7 @@ In today's video, I am in Panama City Beach, but specifically, right now I am on
 ```
 Everyone can participate in the discussion.
 
-I took part in the race. 
+I took part in the race.
 
 join the club
 join us
@@ -718,7 +760,7 @@ git push origin main -u
 - ripe adj. 成熟的（水果谷物 时机）
 
 ```
-mature adult 
+mature adult
 The plan is mature.
 
 ripe apple
