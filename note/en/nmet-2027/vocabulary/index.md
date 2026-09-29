@@ -70,9 +70,21 @@ Developing breathing problems convinced my brother to quit smoking. ✅ convince
 
 - sense n. v. 感觉
 - screen n. 屏幕
+- scene 场景
+- scenery 风景
 
 ```
 make sense 符合直觉
+```
+
+## 230 | 1687 `admire|adore`
+
+- admire v. 钦佩
+- adore v. 爱慕
+
+```
+English materials in the open-source community help improve my English, rather than being a barrier to my open-source participation.
+And I admire Anthony Fu. I always wonder what I could see if I could follow in his footsteps.
 ```
 
 ## 344 | 1141 `explore|explode`
@@ -190,6 +202,11 @@ The reason why we should do this is that focusing too much on the approach can t
 - immediately adv. 立刻
 - instantaneous adj. 即刻的
 
+## 526 | 1785 `abandon|abundant`
+
+- abandon
+- abundant
+
 ## 528 | 658 | 924 `advantage|adventure|advance`
 
 - advantage n. 优势
@@ -203,6 +220,16 @@ beginner
 concise
 advance
 from zero to hero
+```
+
+## 534 | 1364 `certain|curtain`
+
+- certain /ˈsɜːrtn/ adj. 确定的
+- curtain /ˈkɜːrtn/ n. 窗帘
+
+```
+I am certain.
+Close the curtain
 ```
 
 ## 599 | 843 | 1325 `career|cancel|cancer`
@@ -255,6 +282,24 @@ deepseek-v4-pro
 - restrict v. 限制
 - restriction n. 限制
 - district n. 区域
+
+## 796 `passion`
+
+- passion n. 热情
+
+```
+I’ve gradually realized that you have to keep your passion burning to gain solid mastery in coding.
+In other words, you need to learn a great deal of practical, context-based knowledge, not rigid textbook stuff.
+
+Firstly, working hard is necessary.
+But it is not just that you did not try hard enough. IMO you should find what interests you and keep your passion burning, instead of following rigid textbook stuff.
+
+Indeed. Finding what interests you is expensive and demanding.
+I'm not sure what interests me. Maybe coding. It lets me implement ideas in my mind, and communicate with others.
+Or I am a slave to stories. Especially, I have an addiction to stories with delicate emotional expressions.
+
+I also feel tired of traveling. Specifically, I hate certain popular trips which are wrapped in cheap commercialization.
+```
 
 ## 801 `race`
 
@@ -313,6 +358,17 @@ deepseek-v4-pro
 The teacher asks students for a translation from Chinese into English.
 ```
 
+## 1100 `cast`
+
+- cast v. 投射（技巧性）
+- throw v. 扔（普通 扔垃圾）
+
+---
+
+- cast v. 投射
+- broadcast v. n. 广播
+- forecast v. n. 预报
+
 ## 1117 `decline`
 
 - decline v. 减少 拒绝
@@ -370,6 +426,13 @@ The company will hire 5 people. 口语
 The firm employs 200 workers. 正式
 ```
 
+## 1164 `intelligent`
+
+- intelligent adj. 聪明的（高认知 善深度思考）
+- smart adj. 聪明的（机灵 懂变通）
+- clever adj. 聪明的（灵巧 善巧招）
+- brilliant adj. 聪明的（天才级 惊艳出众）
+
 ## 1180 | 625 | 1102 `mercy|messy|chaos`
 
 - mercy n. 仁慈
@@ -380,6 +443,10 @@ The firm employs 200 workers. 正式
 ## 1181 `merely`
 
 - merely adv. 仅仅 只不过
+- nearly adv. 几乎
+- rarely adv. 几乎不 罕见地
+- barely adv. 几乎不 仅仅
+- scarcely adv. 几乎不
 
 ## 1188 `none`
 
@@ -416,7 +483,7 @@ She speaks both English and French.
 
 // neither A nor B 两者都不 既不也不
 Neither answer is correct. // 两个都是不对的
-Neither Tom nor Jerry is here.
+Neither Tom nor Jerry is here.
 
 // either A or B 两者之一 要么要么
 Either answer is correct. // 两个之一是对的 = 两个都是对的
@@ -444,6 +511,7 @@ None of the students are here.
 - obtain v. 获得（正式书面）
 - gain v. 获得（慢慢累积）
 - get v. 拿到（口语）
+- bargain v. 讨价还价 n. 便宜货
 
 ```
 obtain permission
@@ -490,6 +558,89 @@ He appears nervous.
 - oppose v. 反对
 - against prep. 相反
 
+## 1197 `pile`
+
+- pile n. v. 堆（随便堆 可乱可整齐）
+- heap n. 堆（乱糟糟一大堆）
+- stack n. 堆 LIFO（整齐叠起来）
+- queue n. 队列 FIFO
+
+```
+pile up 堆积
+a pile of boxes // 堆着乱糟糟
+a stack of boxes // 整齐叠起来
+
+LIFO: Last in First out
+FIFO: First in First out
+```
+
+## 1198 | 1306 `pray|bless`
+
+- pray
+- bless
+
+## 1263 `variety`
+
+- variety n. 种类 多样化
+- vary v. 不同 变化
+- various adj. 各种的
+- variation n. 变化
+
+---
+
+- some 一些（数量 可数/不可数）
+- several 一些（数量 可数复数）
+- a variety of 各种各样（种类）
+
+```
+some water
+some apples 
+
+several days
+
+a variety of reasons
+various reasons
+```
+
+## 1276 `acquaintance`
+
+- acquaintance n. 熟人
+- instance n. 实例 = example
+- instant adj. 立刻的 = immediate
+
+---
+
+- acquaintance n. 熟人（交情浅）
+- friend n. 朋友（感情深）
+
+## 1277 `addicted`
+
+- addict
+- addicted
+- addiction n. 上瘾
+
+```
+You cannot really tell if something is an addiction till you try and give it up. 
+
+You cannot really tell // 识别
+if something is an addiction // if = whether 是否
+till you try and give it up. 
+```
+
+## 1280 `aid`
+
+- aid n. v. 援助
+- acid n. adj. 酸
+- ACID: Atomicity, Consistency, Isolation, Durability
+
+---
+
+- aid n. v. 援助（正式 外部救援 对方弱势）
+- assist v. 协助（配合辅助别人）
+- assistance n. 帮助
+- assistant n. 助手
+- help 帮助（宽泛）
+
 ## 1353 `consult`
 
 - consult v. 咨询
@@ -501,6 +652,18 @@ He appears nervous.
 // consulting 动名词 “咨询”这个行业/活动本身
 The superpower of AI has destroyed most of consulting. For example, I always consult AI about symptoms, legal issues, and coding problems, instead of a doctor, a lawyer and a teacher.
 ```
+
+## 1354 `contact`
+
+- contact n. v. 联系
+- context 上下文
+- content 内容
+- contract n. 合同 v. 收缩
+
+## 1363 `curse`
+
+- curse v. n. 诅咒
+- swear v. 发誓 咒骂
 
 ## 1400 `extreme`
 
@@ -733,6 +896,36 @@ Would you like some mooncakes?
 - wind - wound - wound
 - windy adj. 有风的（/ɪ/ “win”）
 - wendy 人名（/e/ “温”）
+
+## 1736 | 781 `interrupt|interpret`
+
+- interpret v. 解释
+- interrupt v. 打断
+
+## 1738 `journal`
+
+- journal n. 日记 报刊
+- journalist n. 记者
+- journalism n. 新闻业
+
+---
+
+- journey n. 旅行（长途耗时）
+- tour n. v. 旅行（观光巡游）
+- trip n. v. 旅行（通用 往返一趟）
+- travel v. n. 旅行（泛指 不指代具体）
+- hike v. n. 徒步旅行
+
+## 1758 | 1563 `pursue|purse`
+
+- purse n. 钱包
+- pursue v. 追求
+
+```
+Why shouldn’t we pursue high productivity?
+There is no trick in coding. AI is similar to a mirror which reflects what you are. You should keep your passion burning to gain abilities. AI just boosts your efficiency instead of adding new skills to you without effort.
+On the other side, meeting troubles and resolving them can deepen your comprehension of it without AI.
+```
 
 ## 1801 | 939 `band|brand`
 
