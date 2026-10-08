@@ -6,6 +6,25 @@
 <position>[ | <position>...] `<word>[|<word>...]`
 ```
 
+# Knowledge
+
+## Subject of a Sentence
+
+- https://www.bilibili.com/video/BV16BeB68EjS
+- 中文：人/动物作主语
+- 英语：万物皆可作主语（生动画面）
+
+```
+I got wet in the rain. // Chinglish
+The rain soaked me. // English
+
+I feel awake after drinking coffee. // Chinglish
+The coffee woke me up. // English
+
+I feel happy after I hear this song. // Chinglish
+This song makes me happy. // English
+```
+
 # List
 
 ## 37 | 681 `experience|experiment`
@@ -163,12 +182,17 @@ Exhibit the evidence.
 We need evidence to support this strategy.
 ```
 
-## 463 `motivation`
+## 463 | 2034 `motivation|motive`
 
 - motive
 - motivation n. 动力
 - motivate v.
 - momentum n. 动量
+
+```
+What is your motive? 动机
+What is your motivation? 动力
+```
 
 ## 465 `polite`
 
@@ -312,11 +336,40 @@ I also feel tired of traveling. Specifically, I hate certain popular trips which
 - racial adj. 种族的
 - racism 种族主义
 
+## 810 `seize`
+
+- seize v. 抓住（把握抽象）
+- catch v. 抓住（接住具体）
+
+```
+The world is cruel, so we should seize the chance and fight it out. Trying to prepare completely for everything is an illusion.
+```
+
 ## 969 | 1136 | 1396 `exit|entrance|entry`
 
 - exit n. 出口 v. 退出
 - entrance n. 入口
 - entry n. 进入 条目 参赛作品
+
+## 1024 `rather`
+
+- rather adv. 相当地
+
+---
+
+- not A but B 而是（but 并列连词）
+- not A but rather B 而是（but 并列连词 rather 加强语气）
+- A rather than B 而不是（连词平行）
+- A instead of B 而不是（介词后名词）
+
+```markdown
+It’s *not* about fear of AI *but rather* challenging the brain-dead narrative.
+It's about challenging the narrative, *rather than* fearing AI.
+It's about challenging the narrative, *instead of* fearing AI.
+```
+
+- https://github.com/headllines/hackernews-daily/issues/2274
+- https://blog.alexewerlof.com/p/coding-is-not-solved
 
 ## 1044 | 1646 | 1578 `steal|thief|rob`
 
@@ -641,6 +694,11 @@ till you try and give it up.
 - assistant n. 助手
 - help 帮助（宽泛）
 
+## 1340 `claim`
+
+- claim v. 宣称
+- disclaimer 免责声明
+
 ## 1353 `consult`
 
 - consult v. 咨询
@@ -680,6 +738,26 @@ The superpower of AI has destroyed most of consulting. For example, I always con
 ```
 It is absolutely wrong.
 It is extremely difficult.
+```
+
+## 1411 | 1670 | 2030 `fierce|violent|intense`
+
+- fierce adj. 凶猛的 激烈的（气势强 野兽龇牙）
+- violent adj. 暴力的 强烈的（破坏性）
+- intense adj. 强烈的 激烈的（浓度高）
+
+```
+fierce competition
+fierce dog
+fierce wind
+
+violent crime
+violent storm
+violent attack
+
+intense heat
+intense pain
+intense focus
 ```
 
 ## 1450 | 1329 | 1328 `hole|cave|carve`
@@ -806,6 +884,33 @@ He was involved in the project.
 - modify v. 修改（改一小部分）
 - edit v. 编辑（文案）
 
+## 1581 | 1938 `row|raw`
+
+- row n. 行
+- raw adj. 生的
+- origin n. 起源
+- original adj. 原始的
+- https://github.com/time1043/feedah/blob/mvp/260830/src/app/_layout.tsx blob
+- https://raw.githubusercontent.com/time1043/feedah/refs/heads/mvp/260830/src/app/_layout.tsx raw
+
+```
+git push origin main -u
+```
+
+---
+
+- mature adj. 成熟的（人 思想方案）
+- ripe adj. 成熟的（水果谷物 时机）
+
+```
+mature adult
+The plan is mature.
+
+ripe apple
+The banana is ripe.
+The time is ripe.
+```
+
 ## 1595 `severe`
 
 - some 一些
@@ -864,15 +969,25 @@ He was involved in the project.
 - typist n.
 - typewriter n.
 
-## 1661 `unite`
+## 1661 | 2031 `unite|joint`
 
 - unite v. 联合
 - unit n. 单元
+- union n. 联合 联盟 工会
+- reunion n. 团聚
 
 ```
 US: the United States
 USA: the United States of America
 UN: the United Nations
+```
+
+- joint adj. 联合的 n. 关节
+- unite v. 联合
+
+```
+We must unite.
+This is our joint plan.
 ```
 
 ## 1682 | 918 `wound|wind`
@@ -916,6 +1031,24 @@ Would you like some mooncakes?
 - travel v. n. 旅行（泛指 不指代具体）
 - hike v. n. 徒步旅行
 
+## 1747 `mechanical`
+
+- mechanical adj. 机械的
+- mechanic n. 机械师
+- machine n. 机器
+
+## 1749 `mood`
+
+- mood n. 情绪
+- wood n. 木头
+- blood n. 血
+- flood n. 洪水 v. 淹没
+
+---
+
+- mood n. 情绪
+- emotion n. 情感
+
 ## 1758 | 1563 `pursue|purse`
 
 - purse n. 钱包
@@ -927,6 +1060,11 @@ There is no trick in coding. AI is similar to a mirror which reflects what you a
 On the other side, meeting troubles and resolving them can deepen your comprehension of it without AI.
 ```
 
+## 1760 `receipt`
+
+- receipt n. 收据
+- recipe n. 食谱
+
 ## 1801 | 939 `band|brand`
 
 - band n. 乐队 v. 组队
@@ -934,29 +1072,13 @@ On the other side, meeting troubles and resolving them can deepen your comprehen
 - brain n. 大脑
 - branch n. 分支
 
-## 1938 `raw|row`
+## 2014 `extinction`
 
-- row n. 行
-- raw adj. 生的
-- origin n. 起源
-- original adj. 原始的
-- https://github.com/time1043/feedah/blob/mvp/260830/src/app/_layout.tsx blob
-- https://raw.githubusercontent.com/time1043/feedah/refs/heads/mvp/260830/src/app/_layout.tsx raw
+- extinction n. 灭绝
+- exterminate v. 消灭
+- extermination n.
 
-```
-git push origin main -u
-```
+## 2024 `individual`
 
----
-
-- mature adj. 成熟的（人 思想方案）
-- ripe adj. 成熟的（水果谷物 时机）
-
-```
-mature adult
-The plan is mature.
-
-ripe apple
-The banana is ripe.
-The time is ripe.
-```
+- individual adj. 个体的 n. 个人（个体的 反义词是群体/集体）
+- personal adj. 个人的（私人的 反义词是公共/他人）
