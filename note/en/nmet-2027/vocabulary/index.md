@@ -27,6 +27,12 @@ This song makes me happy. // English
 
 # List
 
+## 2 | 36 | 384 `change|chance|charge`
+
+- change v. n. 改变 n. 零钱
+- chance n. 机会
+- charge v. 收费 充电
+
 ## 37 | 681 `experience|experiment`
 
 - experience n. v. 经历 n. 经验
@@ -39,11 +45,49 @@ This song makes me happy. // English
 - expensive adj. 贵的
 - expense n. 费用
 
+## 67 `choose`
+
+- choose /tʃuːz/ v. 选择
+- choice /tʃɔɪs/ n. 选择
+
 ## 71 | 280 | 1546 `explain|complain|plain`
 
 - plain adj. 直白的
 - explain v. 解释（向外 + 直白的 = 解释）
 - complain v. 抱怨（总是 + 直白的 = 抱怨）
+
+## 81 | 273 | 674 `effort|affect|effect`
+
+- effort n. 努力
+- affect n. v. 影响
+- effect n. 效果
+
+```markdown
+The weather **affects** my mood.
+The weather **has an effect** on my mood.
+
+I made an effort.
+```
+
+## 84 | 130 | 717 | 739 `ashamed|embarrassed|shy|awkward`
+
+- ashamed adj. 羞愧的（做错事内心愧疚 面子）
+- embarrassed adj. 尴尬的（不一定做错 社死）
+- shy adj. 害羞的（性格腼腆）
+- awkward adj. 笨拙的 令人尴尬的（场面氛围尴尬）
+
+```
+It is fine. If you do not feel embarrassed, then the other person will. Anyway, no one here knows you.
+It is okay. If you are not embarrassed, the other person will be. Regardless, they do not know you.
+```
+
+- ashamed adj. 羞愧的（做错事内心愧疚 面子）
+- guilty adj. 内疚的（负有责任）
+
+```
+I am ashamed of my bad manners.
+I feel guilty for lying to you.
+```
 
 ## 122 | 1148 | 1879 | 1432 `escape|flee|getaway|gate`
 
@@ -53,6 +97,14 @@ This song makes me happy. // English
 - getaway n. 逃跑
 - gateway n. 网关
 - gate n. 大门
+
+## 145 `fear`
+
+- fear n. 恐惧
+- terror n. 恐惧
+- frightened adj. 害怕的
+- scared adj. 害怕的
+- afraid adj. 害怕的
 
 ## 157 | 326 | 516 `sha__`
 
@@ -85,6 +137,24 @@ I tried to persuade my brother to quit smoking, because it causes cancer. ✅ pe
 Developing breathing problems convinced my brother to quit smoking. ✅ convinced
 ```
 
+## 222 `respect`
+
+- `spec`
+- respect v. n. 尊重
+- special adj. 特别的
+- especially adv. 尤其
+- specific adj. 具体的
+- suspect v. n. 怀疑
+- inspect v. 审查
+- species n. 物种
+
+---
+
+- suspicion
+- suspicious adj. 可疑的
+- suspect /səˈspekt/ v. 怀疑
+- suspend /səˈspend/ v. 暂停 悬浮
+
 ## 224 | 1588 `sense|screen`
 
 - sense n. v. 感觉
@@ -100,11 +170,31 @@ make sense 符合直觉
 
 - admire v. 钦佩
 - adore v. 爱慕
+- https://adonisjs.com/
 
 ```
 English materials in the open-source community help improve my English, rather than being a barrier to my open-source participation.
 And I admire Anthony Fu. I always wonder what I could see if I could follow in his footsteps.
 ```
+
+## 267 | 1243 `sympathy|symptom`
+
+- sympathy n. 同情
+- symptom n. 症状
+
+## 285 | 287 `fight|frightened`
+
+- fight v. n. 打架
+- fright n. 惊吓
+- frighten v. 惊吓
+- frightened adj. 害怕的
+
+---
+
+- light v. 点亮 adj. 轻的
+- flight n. 航班
+- slight adj. 轻微的
+- delight n. 高兴
 
 ## 344 | 1141 `explore|explode`
 
@@ -182,6 +272,55 @@ Exhibit the evidence.
 We need evidence to support this strategy.
 ```
 
+## 386 `disturb`
+
+- disturb v. 打扰
+- distribute v. 分配
+- district n. 区域
+
+## 396 `stress`
+
+- stress v. 强调 n. 压力（心理压力）
+- pressure n. 压力（外部压力）
+
+```
+under stress
+stress out
+She is under a lot of stress from work.
+
+peer pressure
+the pressure of water
+
+The pressure from work caused me a lot of stress.
+```
+
+- press v. 按压
+- squeeze v. n. 挤压（两边向内挤压）
+- sneeze v. n. 打喷嚏
+
+```
+press the button
+squeeze the bottle
+squeeze a lemon
+```
+
+## 403 `beat`
+
+- beat v. n. 击败
+- bit
+- bet v. 打赌 n. 赌注
+
+## 429 `permit`
+
+- admit v. 承认
+- permit v. n. 允许
+
+---
+
+- allow v. 允许（口语）
+- permit v. n. 允许（书面）
+- permission n. 许可
+
 ## 463 | 2034 `motivation|motive`
 
 - motive
@@ -225,6 +364,20 @@ The reason why we should do this is that focusing too much on the approach can t
 - instantly adv. 立刻
 - immediately adv. 立刻
 - instantaneous adj. 即刻的
+
+## 503 | 531 `lend|borrow`
+
+- lend v. 借出
+- borrow v. 借入
+
+```
+Can you lend me a pen?
+Can I borrow a pen?
+
+A boy goes to the library to get a book.
+The library lends the book.
+The boy borrows the book.
+```
 
 ## 526 | 1785 `abandon|abundant`
 
@@ -306,6 +459,11 @@ deepseek-v4-pro
 - restrict v. 限制
 - restriction n. 限制
 - district n. 区域
+
+## 781 | 1736 `interpret|interrupt`
+
+- interpret v. 解释 说明
+- interrupt v. 打断
 
 ## 796 `passion`
 
@@ -422,10 +580,10 @@ The teacher asks students for a translation from Chinese into English.
 - broadcast v. n. 广播
 - forecast v. n. 预报
 
-## 1117 `decline`
+## 1117 | 221 `decline|refuse`
 
 - decline v. 减少 拒绝
-- refuse
+- refuse v. 拒绝
 - reject
 
 ```
@@ -1012,11 +1170,6 @@ Would you like some mooncakes?
 - windy adj. 有风的（/ɪ/ “win”）
 - wendy 人名（/e/ “温”）
 
-## 1736 | 781 `interrupt|interpret`
-
-- interpret v. 解释
-- interrupt v. 打断
-
 ## 1738 `journal`
 
 - journal n. 日记 报刊
@@ -1072,13 +1225,90 @@ On the other side, meeting troubles and resolving them can deepen your comprehen
 - brain n. 大脑
 - branch n. 分支
 
+## 1974 `tentative`
+
+- tentative adj. 暂定的 不确定的
+
+## 1976 `thirsty`
+
+- thirsty adj. 口渴的
+
+## 1986 `vital`
+
+- vital adj. 重要的
+- significant adj. 重要的
+- important adj. 重要的
+
+## 2001 | 2002 `contract|contrast`
+
+- contract n. 合同 v. 收缩
+- contrast n. v. 对比 反差
+
+---
+
+- `tract`
+- contract n. 合同 v. 收缩
+- abstract adj. 抽象的
+- distract v. 分心
+- attract v. 吸引
+- tractor n. 拖拉机
+- subtract v. 减去
+
+```markdown
+// 1 + 1 = 2
+One and one **equals** two.
+One *plus* one **equals** two. // plus 介词
+**Add** one to one, and you **get** two. // add 动词
+
+// 2 - 1 = 1
+Two *minus* one **equals** one. // minus 介词
+**Subtract** one from two. // subtract 动词
+
+// 2 * 3 = 6
+Two *times* three **equals** six. // times 介词
+
+// 6 / 2 = 3
+Six *divided* by two **equals** three. // divided by 介词短语
+```
+
+## 2004 `crucial`
+
+- crucial adj. 关键的
+- critical adj. 批评的 关键的
+- key adj. 关键的 n. 钥匙
+
+## 2006 | 2020 `demonstrate|illustrate`
+
+- show
+- exhibit
+- display
+- demonstrate v. 展示
+- illustrate v. 展示
+
 ## 2014 `extinction`
 
 - extinction n. 灭绝
 - exterminate v. 消灭
 - extermination n.
 
+## 2022 `imply`
+
+- imply v. 暗示
+- apply v. 应用
+
+## 2023 `incredible`
+
+- incredible adj. 难以置信的 极好的（褒义 好到令人惊叹）
+- unbelievable adj. 难以置信的（中性 事情出乎意料）
+- excellent adj. 优秀的（质量优秀）
+
 ## 2024 `individual`
 
 - individual adj. 个体的 n. 个人（个体的 反义词是群体/集体）
 - personal adj. 个人的（私人的 反义词是公共/他人）
+
+## 2027 `insight`
+
+- insight n. 洞察力
+- sight n. 景象 视野
+- sigh v. n. 叹息
